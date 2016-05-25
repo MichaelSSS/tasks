@@ -1,0 +1,13 @@
+.street-autocomplete {
+  list-style: none;
+  padding: 0px;
+  margin: 0px;
+  position: absolute;
+  max-height: 200px;
+  overflow-y: auto;
+  display: none;
+}
+
+.street-autocomplete > li {
+  cursor: pointer;
+}
